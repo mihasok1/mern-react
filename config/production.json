@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "mikhail secret kluchi ",
+  "mongoUri": "mongodb+srv://Mikhail:1234qwer@cluster0.hwaan.mongodb.net/cours?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
